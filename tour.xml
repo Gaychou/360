@@ -1,4 +1,4 @@
-﻿<krpano version="1.16" title="" onstart="startup();">
+<krpano version="1.16" title="" onstart="startup();">
 
 
 	<!-- set skin settings: bingmaps? gyro? thumbnail controlling? tooltips? -->
@@ -18,12 +18,12 @@
 
 		<view hlookat="-125.515" vlookat="3.273" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
-		<preview url="panos/1.tiles/preview.jpg" />
+		<preview url="images/panos/1.tiles/preview.jpg" />
 
 		<image>
-			<cube url="panos/1.tiles/_%s.jpg" />
+			<cube url="images/panos/1.tiles/_%s.jpg" />
 			<mobile>
-				<cube url="panos/1.tiles/_%s.jpg" />
+				<cube url="images/panos/1.tiles/_%s.jpg" />
 			</mobile>
 		</image>
 
