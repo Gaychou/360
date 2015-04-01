@@ -21,9 +21,9 @@
 		<preview url="images/panos/1.tiles/preview.jpg" />
 
 		<image>
-			<cube url="images/_%s.jpg" />
+			<cube url="images/%s.jpg" />
 			<mobile>
-				<cube url="images/_%s.jpg" />
+				<cube url="images/%s.jpg" />
 			</mobile>
 		</image>
 
