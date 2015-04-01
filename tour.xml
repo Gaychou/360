@@ -18,7 +18,7 @@
 
 		<view hlookat="-125.515" vlookat="3.273" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
-		<preview url="images/panos/1.tiles/preview.jpg" />
+		<preview url="images/preview.jpg" />
 
 		<image>
 			<cube url="images/%s.jpg" />
